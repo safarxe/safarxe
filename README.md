@@ -1,4 +1,3 @@
-![GIF](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXVhYnIxMHh1YTJlb2loNXk3Z3I4c3FqZTAweGI0bTc1MHN3ZWV0diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26u4nJPf0JtQPdStq/giphy.webp)
 <p align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExamU1M2p1a3dzeGZra2FzaDQ0MGFrYTdtZWp3Yzg1Z3M4YTI0aGI0dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26u4nJPf0JtQPdStq/giphy.gif" alt="GIF 2"/> 
   <img src="https://i.gifer.com/XOsa.gif" alt="GIF 2" width="200"/> 
