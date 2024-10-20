@@ -1,10 +1,12 @@
 <p align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExamU1M2p1a3dzeGZra2FzaDQ0MGFrYTdtZWp3Yzg1Z3M4YTI0aGI0dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26u4nJPf0JtQPdStq/giphy.gif" alt="GIF 2"/> 
+  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
   <img src="https://user-images.githubusercontent.com/40064496/120735130-6c9e2300-c4c0-11eb-8346-94429163466a.gif" alt="GIF 2" width="200"/> 
   </p>
 
   <p align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExamU1M2p1a3dzeGZra2FzaDQ0MGFrYTdtZWp3Yzg1Z3M4YTI0aGI0dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26u4nJPf0JtQPdStq/giphy.gif" alt="GIF 1" style="margin-left: 20px;"/>  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExamU1M2p1a3dzeGZra2FzaDQ0MGFrYTdtZWp3Yzg1Z3M4YTI0aGI0dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26u4nJPf0JtQPdStq/giphy.gif" alt="GIF 1" style="margin-left: 20px;"/> 
+    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
   <img src="https://img1.picmix.com/output/stamp/normal/3/9/6/7/2387693_e8061.gif" alt="GIF 2" width="200" style="margin-right: 20px;"/> 
 </p>
 
